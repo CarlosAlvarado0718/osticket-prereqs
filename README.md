@@ -107,11 +107,11 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 ![image](https://github.com/CarlosAlvarado0718/osticket-prereqs/assets/140138198/fb259c8b-dd1f-4c8f-9bf7-17c4baa18469)
 
-  - Go to IIS Sites
-  - Default Web Site
-  - osTicket
-  - Enable or diable an extension
-  - Enable php_imap.dll, php_intl.dll, php_opcache.dll 
+- Go to IIS Sites
+- Default Web Site
+- osTicket
+- Enable or diable an extension
+- Enable php_imap.dll, php_intl.dll, php_opcache.dll 
 
   ![image](https://github.com/CarlosAlvarado0718/osticket-prereqs/assets/140138198/9d6b2b3e-f78a-48cc-a181-3badebd7c8a6)
 
@@ -143,7 +143,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 
 
-  - Fill out all of the osTicket Basic Installation Information and stop at the database settings.
+- Fill out all of the osTicket Basic Installation Information and stop at the database settings.
 
 
   ![image](https://github.com/CarlosAlvarado0718/osticket-prereqs/assets/140138198/eac087a6-2cde-4c59-9e88-14719fc92ec4)
